@@ -1,0 +1,6 @@
+framework module Pods_DeviceTool_Example {
+  umbrella header "Pods-DeviceTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

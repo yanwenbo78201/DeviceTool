@@ -1,0 +1,16 @@
+PODS:
+  - DeviceTool (0.1.0)
+
+DEPENDENCIES:
+  - DeviceTool (from `../`)
+
+EXTERNAL SOURCES:
+  DeviceTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DeviceTool: 38692eef5f4887132bfab73bf73ccb2211bad22f
+
+PODFILE CHECKSUM: 211c9f3b04c2d29339cc2198726a7150b56683de
+
+COCOAPODS: 1.16.2

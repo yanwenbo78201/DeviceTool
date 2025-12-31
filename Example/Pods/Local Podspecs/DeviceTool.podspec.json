@@ -1,0 +1,22 @@
+{
+  "name": "DeviceTool",
+  "version": "0.1.0",
+  "summary": "A short description of DeviceTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Account/DeviceTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Account": "yanwenbo_78201@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Account/DeviceTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DeviceTool/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module DeviceTool {
+  umbrella header "DeviceTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
