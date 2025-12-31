@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DeviceTool_Example' do
+  pod 'DeviceTool', :path => '../'
+
+  target 'DeviceTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
