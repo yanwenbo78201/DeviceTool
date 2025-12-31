@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Account/DeviceTool'
+  s.homepage         = 'https://github.com/yanwenbo78201/DeviceTool'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Account' => 'yanwenbo_78201@163.com' }
-  s.source           = { :git => 'https://github.com/Account/DeviceTool.git', :tag => s.version.to_s }
+  s.author           = { 'Account' => 'yanwenbo78201@gmail.com' }
+  s.source           = { :git => 'https://github.com/yanwenbo78201/DeviceTool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '15.0'
 
   s.source_files = 'DeviceTool/Classes/**/*'
   

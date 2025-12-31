@@ -42,7 +42,7 @@
 /* Begin PBXFileReference section */
 		0F22074C5AD4F8EBEBC5509A108370E7 /* Pods-DeviceTool_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DeviceTool_Example.modulemap"; sourceTree = "<group>"; };
 		2917FBD75378A084F2B6A2C150C13D11 /* DeviceTool-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DeviceTool-Info.plist"; sourceTree = "<group>"; };
-		2A4436AE06B3969A9C64E5013B93ABD7 /* Pods-DeviceTool_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DeviceTool_Example"; path = Pods_DeviceTool_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A4436AE06B3969A9C64E5013B93ABD7 /* Pods_DeviceTool_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DeviceTool_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F9626C01F8DBD5817DC0CAC5F9128CD /* Pods-DeviceTool_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DeviceTool_Example-umbrella.h"; sourceTree = "<group>"; };
 		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		39F89ED20B690BB7400EE2388206ACE6 /* DeviceTool-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DeviceTool-prefix.pch"; sourceTree = "<group>"; };
@@ -51,28 +51,28 @@
 		4185521AB18B1930F865B8067AFBB430 /* Pods-DeviceTool_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DeviceTool_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4B1876EA4F7EF6C2294C255CA68607F9 /* Pods-DeviceTool_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DeviceTool_Tests-umbrella.h"; sourceTree = "<group>"; };
 		4E9B4560F1D2268A1109F3AAA5AA1A2E /* ChargeMemory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChargeMemory.swift; path = DeviceTool/Classes/ChargeMemory.swift; sourceTree = "<group>"; };
-		4FB98F53A322F3A0C44E80D35280AD6D /* DeviceTool.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DeviceTool.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		5464E8AB3FA8401D37812C832A394AC5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		4FB98F53A322F3A0C44E80D35280AD6D /* DeviceTool.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DeviceTool.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		5464E8AB3FA8401D37812C832A394AC5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5870B459EDA77F42C945D200D1278E3F /* Pods-DeviceTool_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DeviceTool_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5FAEC6D3460299740FCDF76171264AC5 /* Pods-DeviceTool_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DeviceTool_Tests.modulemap"; sourceTree = "<group>"; };
 		625040831625C25F55624554A1AA4752 /* Pods-DeviceTool_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DeviceTool_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		641185A16751DFF4ED47E1F13AC10655 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		641185A16751DFF4ED47E1F13AC10655 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		6FD1768BAC5BB4BF512AD9C7F73373EB /* ChargeNetwork.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChargeNetwork.swift; path = DeviceTool/Classes/ChargeNetwork.swift; sourceTree = "<group>"; };
 		7682BB6EC7460BB627943D56A1974E14 /* Pods-DeviceTool_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DeviceTool_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8470002E8078F43AE54CC6E466267902 /* Pods-DeviceTool_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DeviceTool_Example.release.xcconfig"; sourceTree = "<group>"; };
-		851760A7C21B6B55A011808A259620F8 /* Pods-DeviceTool_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DeviceTool_Tests"; path = Pods_DeviceTool_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		851760A7C21B6B55A011808A259620F8 /* Pods_DeviceTool_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DeviceTool_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8586C43FB84244E7BF89712C92D5CB79 /* DeviceTool.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DeviceTool.debug.xcconfig; sourceTree = "<group>"; };
 		8DC489705D987821808D114DEA730DD1 /* Pods-DeviceTool_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DeviceTool_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9309B15E2B3B993E837FC7B4412CA84E /* DeviceTool-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DeviceTool-umbrella.h"; sourceTree = "<group>"; };
 		9955A03A8DDEF6C70E390252622E7454 /* DeviceTool-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DeviceTool-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B9A82D1E7CA045007A1673E4D8135564 /* Pods-DeviceTool_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DeviceTool_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		BC092E3CE73300F50F6657563824CF18 /* ChargeTime.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChargeTime.swift; path = DeviceTool/Classes/ChargeTime.swift; sourceTree = "<group>"; };
 		BEC8BBED6FBA5115C47B3249B3D89791 /* Pods-DeviceTool_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DeviceTool_Example-frameworks.sh"; sourceTree = "<group>"; };
 		C00C0B321F0C6AD4654454155630AD09 /* Pods-DeviceTool_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DeviceTool_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C45EA73590C97796AFB856080152E468 /* Pods-DeviceTool_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DeviceTool_Tests-dummy.m"; sourceTree = "<group>"; };
 		C79313CB3597F5900E6E8C1C700F9351 /* Pods-DeviceTool_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DeviceTool_Example-Info.plist"; sourceTree = "<group>"; };
-		E24BA6BF48FA3D6F9ACD10975D3A3041 /* DeviceTool */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DeviceTool; path = DeviceTool.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E24BA6BF48FA3D6F9ACD10975D3A3041 /* DeviceTool.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DeviceTool.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9BBAF2305E7A7524CE732C851D2F53D /* Pods-DeviceTool_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DeviceTool_Tests-Info.plist"; sourceTree = "<group>"; };
 		ED0890CF2E84248C5152B54B1BEBAF30 /* ChargeDevice.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChargeDevice.swift; path = DeviceTool/Classes/ChargeDevice.swift; sourceTree = "<group>"; };
 		FB5E95517ECBE7FA7901C8B5AB2FDA08 /* Pods-DeviceTool_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DeviceTool_Example-dummy.m"; sourceTree = "<group>"; };
@@ -166,9 +166,9 @@
 		740CE026D1A0D3B1837947BA5CA405A4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E24BA6BF48FA3D6F9ACD10975D3A3041 /* DeviceTool */,
-				2A4436AE06B3969A9C64E5013B93ABD7 /* Pods-DeviceTool_Example */,
-				851760A7C21B6B55A011808A259620F8 /* Pods-DeviceTool_Tests */,
+				E24BA6BF48FA3D6F9ACD10975D3A3041 /* DeviceTool.framework */,
+				2A4436AE06B3969A9C64E5013B93ABD7 /* Pods_DeviceTool_Example.framework */,
+				851760A7C21B6B55A011808A259620F8 /* Pods_DeviceTool_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -278,7 +278,7 @@
 			);
 			name = "Pods-DeviceTool_Tests";
 			productName = Pods_DeviceTool_Tests;
-			productReference = 851760A7C21B6B55A011808A259620F8 /* Pods-DeviceTool_Tests */;
+			productReference = 851760A7C21B6B55A011808A259620F8 /* Pods_DeviceTool_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		66637280F0BF470782B5D6736D101F39 /* DeviceTool */ = {
@@ -296,7 +296,7 @@
 			);
 			name = DeviceTool;
 			productName = DeviceTool;
-			productReference = E24BA6BF48FA3D6F9ACD10975D3A3041 /* DeviceTool */;
+			productReference = E24BA6BF48FA3D6F9ACD10975D3A3041 /* DeviceTool.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		8FBFD2D236869886F3E283AE2E094AA9 /* Pods-DeviceTool_Example */ = {
@@ -315,7 +315,7 @@
 			);
 			name = "Pods-DeviceTool_Example";
 			productName = Pods_DeviceTool_Example;
-			productReference = 2A4436AE06B3969A9C64E5013B93ABD7 /* Pods-DeviceTool_Example */;
+			productReference = 2A4436AE06B3969A9C64E5013B93ABD7 /* Pods_DeviceTool_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -336,8 +336,6 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			minimizedProjectReferenceProxies = 0;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 740CE026D1A0D3B1837947BA5CA405A4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -546,8 +544,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
